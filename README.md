@@ -21,4 +21,4 @@ Predict daily ice cream revenue based on temperature using **Linear Regression**
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ice-cream-revenue-predictor.git
+git clone https://github.com/kmhyder/ice-cream-revenue-predictor.git
