@@ -10,7 +10,7 @@ Predict daily ice cream revenue based on temperature using **Linear Regression**
 
 🛠 Technology Used
 
-- Python 3.x
+- Python 3.11
 - scikit-learn (Linear Regression)
 - Streamlit (Web App)
 - NumPy & Matplotlib (Data processing & Visualization)
